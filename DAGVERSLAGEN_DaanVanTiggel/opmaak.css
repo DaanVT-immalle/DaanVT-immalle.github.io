@@ -1,5 +1,28 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Fonts/Roboto-Regular.ttf);
+}
+
+
 h1{
-    color:blueviolet
+    color:blueviolet;
+    text-align: center;
+    font-size: 35pt;
+}
+.StageInfo{
+    background-color: rgb(0, 60, 78);
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    width: 25%;
+    margin-bottom: 15px;
+}
+h2{
+    color:blueviolet;
+    text-align: left;
+    font-size: 14pt;
+    
 }
 nav li{
     display: inline;
@@ -20,6 +43,8 @@ body{
     width: 95%;
     height: 95%;
     margin: 30px auto 30px auto;
+    font-family: Roboto;
+    
 }
 ul{
     padding-left: 0px;
