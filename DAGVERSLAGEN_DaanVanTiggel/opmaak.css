@@ -5,5 +5,22 @@ nav li{
     display: inline;
     border-radius: 10px;
     border: solid 5px blueviolet;
-    padding: 10px 10px 10px 10px;
+    padding: 10px 50px 10px 50px;
+    
+    
+}
+.Navigatie{
+    text-align: center;
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+body{
+    width: 95%;
+    height: 95%;
+    margin: 30px auto 30px auto;
+}
+ul{
+    padding-left: 0px;
 }
