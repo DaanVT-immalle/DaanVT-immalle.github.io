@@ -92,3 +92,10 @@ aside {
     margin-bottom: 5px;
     text-align: center;
 }
+a:hover{
+    color: blue;
+    
+}
+a{
+    text-decoration: none;
+}
