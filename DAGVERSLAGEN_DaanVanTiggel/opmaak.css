@@ -112,7 +112,7 @@ p {
     padding-left: 100px;
     padding-right: 400px;
     padding-top: 38px;
-    padding-bottom: 38px;
+    padding-bottom: 6px;
 
 }
 
@@ -131,4 +131,8 @@ p {
     border-color: rgb(138, 111, 245);
     border-radius: 10px;
     background-color: rgb(219, 241, 241);
+}
+.image{
+    padding-left: 100px;
+    padding-bottom: 5px;
 }
